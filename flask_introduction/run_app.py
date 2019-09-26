@@ -3,9 +3,9 @@ import os
 # from _01_simple import app
 # from _02_html_inside_view import app
 # from _03_template_str_inside_view import app
-from _04_template_outside_view import app
+# from _04_template_outside_view import app
 # from _05_basic_routing import app
-# from _06_raising_custom_errors import app
+from _06_raising_custom_errors import app
 # from _07_request_info import app
 # from _08_redirects import app
 # from _09_simple_database_app import app
